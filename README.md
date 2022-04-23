@@ -1,2 +1,2 @@
 # Google Translate -> Anki importer app
-App for importing data into Anki from Google Translate
+App for importing data from Google Translate into Anki
